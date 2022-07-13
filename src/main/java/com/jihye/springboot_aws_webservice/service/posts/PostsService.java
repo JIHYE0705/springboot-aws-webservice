@@ -1,10 +1,10 @@
-package com.jihye.personal_project.service.posts;
+package com.jihye.springboot_aws_webservice.service.posts;
 
-import com.jihye.personal_project.domain.posts.Posts;
-import com.jihye.personal_project.domain.posts.PostsRepository;
-import com.jihye.personal_project.web.dto.PostsResponseDto;
-import com.jihye.personal_project.web.dto.PostsSaveRequestDto;
-import com.jihye.personal_project.web.dto.PostsUpdateRequestDto;
+import com.jihye.springboot_aws_webservice.domain.posts.Posts;
+import com.jihye.springboot_aws_webservice.domain.posts.PostsRepository;
+import com.jihye.springboot_aws_webservice.web.dto.PostsResponseDto;
+import com.jihye.springboot_aws_webservice.web.dto.PostsSaveRequestDto;
+import com.jihye.springboot_aws_webservice.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

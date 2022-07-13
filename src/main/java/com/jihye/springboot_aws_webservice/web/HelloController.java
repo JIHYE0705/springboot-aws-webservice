@@ -1,6 +1,6 @@
-package com.jihye.personal_project.web;
+package com.jihye.springboot_aws_webservice.web;
 
-import com.jihye.personal_project.web.dto.HelloResponseDto;
+import com.jihye.springboot_aws_webservice.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

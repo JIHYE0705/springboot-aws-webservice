@@ -1,9 +1,9 @@
-package com.jihye.personal_project.web;
+package com.jihye.springboot_aws_webservice.web;
 
-import com.jihye.personal_project.domain.posts.Posts;
-import com.jihye.personal_project.domain.posts.PostsRepository;
-import com.jihye.personal_project.web.dto.PostsSaveRequestDto;
-import com.jihye.personal_project.web.dto.PostsUpdateRequestDto;
+import com.jihye.springboot_aws_webservice.domain.posts.Posts;
+import com.jihye.springboot_aws_webservice.domain.posts.PostsRepository;
+import com.jihye.springboot_aws_webservice.web.dto.PostsSaveRequestDto;
+import com.jihye.springboot_aws_webservice.web.dto.PostsUpdateRequestDto;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

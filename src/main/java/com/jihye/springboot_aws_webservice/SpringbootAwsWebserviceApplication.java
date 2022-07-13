@@ -1,4 +1,4 @@
-package com.jihye.personal_project;
+package com.jihye.springboot_aws_webservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @EnableJpaAuditing
 @SpringBootApplication
-public class PersonalProjectApplication {
+public class SpringbootAwsWebserviceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PersonalProjectApplication.class, args);
+        SpringApplication.run(SpringbootAwsWebserviceApplication.class, args);
     }
 
 }

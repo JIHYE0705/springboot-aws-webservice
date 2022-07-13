@@ -1,6 +1,6 @@
-package com.jihye.personal_project.web.dto;
+package com.jihye.springboot_aws_webservice.web.dto;
 
-import com.jihye.personal_project.domain.posts.Posts;
+import com.jihye.springboot_aws_webservice.domain.posts.Posts;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
