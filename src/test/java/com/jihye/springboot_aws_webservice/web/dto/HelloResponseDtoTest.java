@@ -1,4 +1,4 @@
-package com.jihye.personal_project.web.dto;
+package com.jihye.springboot_aws_webservice.web.dto;
 
 import org.junit.jupiter.api.Test;
 

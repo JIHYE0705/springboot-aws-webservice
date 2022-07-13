@@ -1,9 +1,9 @@
-package com.jihye.personal_project.web;
+package com.jihye.springboot_aws_webservice.web;
 
-import com.jihye.personal_project.service.posts.PostsService;
-import com.jihye.personal_project.web.dto.PostsResponseDto;
-import com.jihye.personal_project.web.dto.PostsSaveRequestDto;
-import com.jihye.personal_project.web.dto.PostsUpdateRequestDto;
+import com.jihye.springboot_aws_webservice.service.posts.PostsService;
+import com.jihye.springboot_aws_webservice.web.dto.PostsResponseDto;
+import com.jihye.springboot_aws_webservice.web.dto.PostsSaveRequestDto;
+import com.jihye.springboot_aws_webservice.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

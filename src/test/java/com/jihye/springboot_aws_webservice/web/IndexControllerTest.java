@@ -1,4 +1,4 @@
-package com.jihye.personal_project.web;
+package com.jihye.springboot_aws_webservice.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

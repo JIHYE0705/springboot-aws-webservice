@@ -1,4 +1,4 @@
-package com.jihye.personal_project.domain;
+package com.jihye.springboot_aws_webservice.domain;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;

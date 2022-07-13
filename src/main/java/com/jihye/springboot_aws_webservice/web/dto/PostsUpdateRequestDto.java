@@ -1,4 +1,4 @@
-package com.jihye.personal_project.web.dto;
+package com.jihye.springboot_aws_webservice.web.dto;
 
 import lombok.Builder;
 import lombok.Getter;

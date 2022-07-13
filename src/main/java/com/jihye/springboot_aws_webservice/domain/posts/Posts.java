@@ -1,6 +1,6 @@
-package com.jihye.personal_project.domain.posts;
+package com.jihye.springboot_aws_webservice.domain.posts;
 
-import com.jihye.personal_project.domain.BaseTimeEntity;
+import com.jihye.springboot_aws_webservice.domain.BaseTimeEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

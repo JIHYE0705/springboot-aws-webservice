@@ -1,4 +1,4 @@
-package com.jihye.personal_project.domain.posts;
+package com.jihye.springboot_aws_webservice.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
